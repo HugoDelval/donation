@@ -1,0 +1,674 @@
+{
+  "chatons": [
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/lail-en-drome-0\" hreflang=\"fr\">L&#039;AIL en Drôme</a>",
+      "lat": 44.726005,
+      "lon": 5.107218
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/lail-en-drome-0\" hreflang=\"fr\">L&#039;AIL en Drôme</a>",
+      "lat": 44.778326,
+      "lon": 5.142732
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/boc47\" hreflang=\"fr\">BOC47</a>",
+      "lat": 44.202787,
+      "lon": 0.620418
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/boc47\" hreflang=\"fr\">BOC47</a>",
+      "lat": 44.203015,
+      "lon": 0.63
+    },
+    {
+      "lat": 50.632782,
+      "lon": 3.063429,
+      "popup": "<a href=\"https://www.chatons.org/chatons/raoull\" hreflang=\"fr\">Raoull</a>"
+    },
+    {
+      "lat": 48.109601,
+      "lon": -1.668775,
+      "popup": "<a href=\"https://www.chatons.org/chatons/krashboyz-bordel-klub\" hreflang=\"fr\">Krashboyz Bordel Klub</a>"
+    },
+    {
+      "lat": 49.45671,
+      "lon": 2.061948,
+      "popup": "<a href=\"https://www.chatons.org/chatons/oisux\" hreflang=\"fr\">Oisux</a>"
+    },
+    {
+      "lat": 47.900536,
+      "lon": 1.91357,
+      "popup": "<a href=\"https://www.chatons.org/chatons/futuretic\" hreflang=\"fr\">FuturÉtic</a>"
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/linux07\" hreflang=\"fr\">Linux07</a>",
+      "lat": 44.985311,
+      "lon": 4.581051
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/linux07\" hreflang=\"fr\">Linux07</a>",
+      "lat": 44.995315,
+      "lon": 4.516568
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/linux07\" hreflang=\"fr\">Linux07</a>",
+      "lat": 44.995315,
+      "lon": 4.516568
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/linux07\" hreflang=\"fr\">Linux07</a>",
+      "lat": 44.952065,
+      "lon": 4.517709
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/linux07\" hreflang=\"fr\">Linux07</a>",
+      "lat": 44.943314,
+      "lon": 4.501664
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/paheko\" hreflang=\"fr\">Paheko</a>",
+      "lat": 47.994237,
+      "lon": 1.231499
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/paheko\" hreflang=\"fr\">Paheko</a>",
+      "lat": 47.323363,
+      "lon": 5.039291
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/paheko\" hreflang=\"fr\">Paheko</a>",
+      "lat": 46.910334,
+      "lon": 4.753218
+    },
+    {
+      "lat": 48.893775,
+      "lon": 2.409139,
+      "popup": "<a href=\"https://www.chatons.org/chatons/club1\" hreflang=\"fr\">Club1</a>"
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/libretic\" hreflang=\"fr\">Libretic</a>",
+      "lat": 44.781043,
+      "lon": -0.461775
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/libretic\" hreflang=\"fr\">Libretic</a>",
+      "lat": 44.768211,
+      "lon": -0.555508
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/libretic\" hreflang=\"fr\">Libretic</a>",
+      "lat": 44.857816,
+      "lon": -0.258865
+    },
+    {
+      "lat": 48.607259,
+      "lon": -3.445907,
+      "popup": "<a href=\"https://www.chatons.org/chatons/ti-nuage\" hreflang=\"fr\">Ti Nuage</a>"
+    },
+    {
+      "lat": 44.83214,
+      "lon": -0.570315,
+      "popup": "<a href=\"https://www.chatons.org/chatons/nubla\" hreflang=\"fr\">Nubla</a>"
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/vrpnet\" hreflang=\"fr\">VRPNet</a>",
+      "lat": 46.01544,
+      "lon": 1.09885
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/vrpnet\" hreflang=\"fr\">VRPNet</a>",
+      "lat": 44.830723,
+      "lon": -0.542536
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/vrpnet\" hreflang=\"fr\">VRPNet</a>",
+      "lat": 44.86494,
+      "lon": -0.556129
+    },
+    {
+      "lat": 48.631638,
+      "lon": -3.300976,
+      "popup": "<a href=\"https://www.chatons.org/chatons/infothemanet\" hreflang=\"fr\">infothema.net</a>"
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/deuxfleurs\" hreflang=\"fr\">Deuxfleurs</a>",
+      "lat": 48.136777,
+      "lon": -1.659367
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/deuxfleurs\" hreflang=\"fr\">Deuxfleurs</a>",
+      "lat": 45.782249,
+      "lon": 4.912206
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/deuxfleurs\" hreflang=\"fr\">Deuxfleurs</a>",
+      "lat": 50.632746,
+      "lon": 3.063421
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/deuxfleurs\" hreflang=\"fr\">Deuxfleurs</a>",
+      "lat": 48.697759,
+      "lon": 2.181859
+    },
+    {
+      "lat": 48.114971,
+      "lon": -1.684871,
+      "popup": "<a href=\"https://www.chatons.org/chatons/gozmail\" hreflang=\"fr\">gozmail</a>"
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/nubo\" hreflang=\"fr\">Nubo</a>",
+      "lat": 50.84825,
+      "lon": 4.360199
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/nubo\" hreflang=\"fr\">Nubo</a>",
+      "lat": 50.872522,
+      "lon": 4.698029
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/nubo\" hreflang=\"fr\">Nubo</a>",
+      "lat": 51.036887,
+      "lon": 3.725739
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/nubo\" hreflang=\"fr\">Nubo</a>",
+      "lat": 50.622949,
+      "lon": 5.583801
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/nubo\" hreflang=\"fr\">Nubo</a>",
+      "lat": 50.585662,
+      "lon": 4.324493
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/nubo\" hreflang=\"fr\">Nubo</a>",
+      "lat": 50.456438,
+      "lon": 4.871063
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/nubo\" hreflang=\"fr\">Nubo</a>",
+      "lat": 51.221658,
+      "lon": 4.409208
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/nubo\" hreflang=\"fr\">Nubo</a>",
+      "lat": 50.828645,
+      "lon": 3.263025
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/nubo\" hreflang=\"fr\">Nubo</a>",
+      "lat": 49.68356,
+      "lon": 5.814182
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/nubo\" hreflang=\"fr\">Nubo</a>",
+      "lat": 50.45416,
+      "lon": 3.950872
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/nubo\" hreflang=\"fr\">Nubo</a>",
+      "lat": 50.411953,
+      "lon": 4.444742
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/resilien\" hreflang=\"fr\">RésiLien</a>",
+      "lat": 45.896125,
+      "lon": 3.936132
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/resilien\" hreflang=\"fr\">RésiLien</a>",
+      "lat": 48.737218,
+      "lon": -3.464765
+    },
+    {
+      "lat": 43.989607,
+      "lon": 3.607796,
+      "popup": "<a href=\"https://www.chatons.org/chatons/distrilab\" hreflang=\"fr\">DistriLab</a>"
+    },
+    {
+      "lat": 44.504339,
+      "lon": 3.667687,
+      "popup": "<a href=\"https://www.chatons.org/chatons/clawdfr\" hreflang=\"fr\">clawd.fr</a>"
+    },
+    {
+      "lat": 49.782688,
+      "lon": 4.710094,
+      "popup": "<a href=\"https://www.chatons.org/chatons/aux-portes-de-limaginaire\" hreflang=\"fr\">Aux Portes de l&#039;Imaginaire</a>"
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/zaclys\" hreflang=\"fr\">Zaclys</a>",
+      "lat": 47.75696,
+      "lon": 6.580845
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/zaclys\" hreflang=\"fr\">Zaclys</a>",
+      "lat": 50.693065,
+      "lon": 3.177624
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/zaclys\" hreflang=\"fr\">Zaclys</a>",
+      "lat": 51.065219,
+      "lon": 2.537086
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/zaclys\" hreflang=\"fr\">Zaclys</a>",
+      "lat": 48.580605,
+      "lon": 7.726135
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/zaclys\" hreflang=\"fr\">Zaclys</a>",
+      "lat": 47.276247,
+      "lon": 6.015014
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/zaclys\" hreflang=\"fr\">Zaclys</a>",
+      "lat": 47.3351,
+      "lon": 5.04245
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/zaclys\" hreflang=\"fr\">Zaclys</a>",
+      "lat": 48.879168,
+      "lon": 2.370849
+    },
+    {
+      "lat": 50.63208,
+      "lon": 3.06201,
+      "popup": "<a href=\"https://www.chatons.org/chatons/altertek\" hreflang=\"fr\">Altertek</a>"
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/nebulae\" hreflang=\"fr\">Nebulae</a>",
+      "lat": 48.111099,
+      "lon": -1.671982
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/nebulae\" hreflang=\"fr\">Nebulae</a>",
+      "lat": 45.933244,
+      "lon": 5.490417
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/nebulae\" hreflang=\"fr\">Nebulae</a>",
+      "lat": 45.18544,
+      "lon": 5.71261
+    },
+    {
+      "lat": 50.82820584124,
+      "lon": 4.3692018091679,
+      "popup": "<a href=\"https://www.chatons.org/chatons/domaine-public\" hreflang=\"fr\">Domaine Public</a>"
+    },
+    {
+      "lat": 43.594644829296,
+      "lon": 1.4285136759281,
+      "popup": "<a href=\"https://www.chatons.org/chatons/caracosnet\" hreflang=\"fr\">Caracos.net</a>"
+    },
+    {
+      "lat": 43.309122918879,
+      "lon": 5.3895825147629,
+      "popup": "<a href=\"https://www.chatons.org/chatons/evolix\" hreflang=\"fr\">Evolix</a>"
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/garbaye\" hreflang=\"fr\">Garbaye</a>",
+      "lat": 44.550905,
+      "lon": -0.870366
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/garbaye\" hreflang=\"fr\">Garbaye</a>",
+      "lat": 44.815267,
+      "lon": -0.550899
+    },
+    {
+      "lat": 45.088027245815,
+      "lon": 5.1319777965546,
+      "popup": "<a href=\"https://www.chatons.org/chatons/isidorusfr\" hreflang=\"fr\">Isidorus.fr</a>"
+    },
+    {
+      "lat": 47.646321857693,
+      "lon": -2.7787618339062,
+      "popup": "<a href=\"https://www.chatons.org/chatons/kaz\" hreflang=\"fr\">KAZ</a>"
+    },
+    {
+      "lat": 48.109412377794,
+      "lon": -1.6583340615034,
+      "popup": "<a href=\"https://www.chatons.org/chatons/libreon\" hreflang=\"fr\">Libreon</a>"
+    },
+    {
+      "lat": 48.512977,
+      "lon": -1.660845,
+      "popup": "<a href=\"https://www.chatons.org/chatons/allella\" hreflang=\"fr\">allella</a>"
+    },
+    {
+      "lat": 50.422839116583,
+      "lon": 2.7839197218418,
+      "popup": "<a href=\"https://www.chatons.org/chatons/cliss-xxi\" hreflang=\"fr\">Cliss XXI</a>"
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/le-cloud-girofle\" hreflang=\"fr\">Le Cloud Girofle</a>",
+      "lat": 45.749894,
+      "lon": 1.930933
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/le-cloud-girofle\" hreflang=\"fr\">Le Cloud Girofle</a>",
+      "lat": 48.911489,
+      "lon": 2.383347
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/le-cloud-girofle\" hreflang=\"fr\">Le Cloud Girofle</a>",
+      "lat": 48.96922,
+      "lon": 0.945511
+    },
+    {
+      "lat": 48.110549,
+      "lon": -1.67872,
+      "popup": "<a href=\"https://www.chatons.org/chatons/katzei\" hreflang=\"fr\">Katzei</a>"
+    },
+    {
+      "lat": 48.906917945718,
+      "lon": 2.2557109594345,
+      "popup": "<a href=\"https://www.chatons.org/chatons/kaihuri\" hreflang=\"fr\">Kaihuri</a>"
+    },
+    {
+      "lat": 47.185886967732,
+      "lon": -1.8600797653198,
+      "popup": "<a href=\"https://www.chatons.org/chatons/retzonet\" hreflang=\"fr\">Retzo.net</a>"
+    },
+    {
+      "lat": 48.571337485012,
+      "lon": 7.7160716056824,
+      "popup": "<a href=\"https://www.chatons.org/chatons/reflexlibre\" hreflang=\"fr\">ReflexLibre</a>"
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/numericloud\" hreflang=\"fr\">Numéricloud</a>",
+      "lat": 48.856523,
+      "lon": 2.362061
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/numericloud\" hreflang=\"fr\">Numéricloud</a>",
+      "lat": 47.225537,
+      "lon": -1.549072
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/numericloud\" hreflang=\"fr\">Numéricloud</a>",
+      "lat": 45.758326,
+      "lon": 4.833984
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/numericloud\" hreflang=\"fr\">Numéricloud</a>",
+      "lat": 47.658635,
+      "lon": -2.755508
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/numericloud\" hreflang=\"fr\">Numéricloud</a>",
+      "lat": 44.94268,
+      "lon": 4.500446
+    },
+    {
+      "lat": 48.857877474175,
+      "lon": 2.3694875836372,
+      "popup": "<a href=\"https://www.chatons.org/chatons/bastet-parinux\" hreflang=\"fr\">Bastet Parinux</a>"
+    },
+    {
+      "lat": 48.892000491829,
+      "lon": 2.3635263741016,
+      "popup": "<a href=\"https://www.chatons.org/chatons/zouritnet\" hreflang=\"fr\">Zourit.net</a>"
+    },
+    {
+      "lat": 45.765379715961,
+      "lon": 4.8837098479271,
+      "popup": "<a href=\"https://www.chatons.org/chatons/opendoor\" hreflang=\"fr\">openDoor</a>"
+    },
+    {
+      "lat": 43.602633,
+      "lon": 1.454186,
+      "popup": "<a href=\"https://www.chatons.org/chatons/le-filament\" hreflang=\"fr\">Le Filament</a>"
+    },
+    {
+      "lat": 47.844328095935,
+      "lon": 1.6518196463585,
+      "popup": "<a href=\"https://www.chatons.org/chatons/bechamailfr\" hreflang=\"fr\">Bechamail.fr</a>"
+    },
+    {
+      "lat": 47.240317973118,
+      "lon": 6.0191680490971,
+      "popup": "<a href=\"https://www.chatons.org/chatons/sequanux\" hreflang=\"fr\">Sequanux</a>"
+    },
+    {
+      "lat": 47.765857,
+      "lon": -3.377371,
+      "popup": "<a href=\"https://www.chatons.org/chatons/ma-data\" hreflang=\"fr\">Ma Data</a>"
+    },
+    {
+      "lat": 45.759851701587,
+      "lon": 4.8260879516602,
+      "popup": "<a href=\"https://www.chatons.org/chatons/siicks-services\" hreflang=\"fr\">Siick&#039;s services</a>"
+    },
+    {
+      "lat": 48.853026775658,
+      "lon": 2.3498618602753,
+      "popup": "<a href=\"https://www.chatons.org/chatons/underworld\" hreflang=\"fr\">UNDERWORLD</a>"
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/sleto\" hreflang=\"fr\">Sleto</a>",
+      "lat": 45.204944,
+      "lon": 5.835838
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/sleto\" hreflang=\"fr\">Sleto</a>",
+      "lat": 46.028105,
+      "lon": 4.064695
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/la-contre-voie\" hreflang=\"fr\">La Contre-Voie</a>",
+      "lat": 48.896581,
+      "lon": 2.318453
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/la-contre-voie\" hreflang=\"fr\">La Contre-Voie</a>",
+      "lat": 45.647826,
+      "lon": 0.159063
+    },
+    {
+      "lat": 48.842606167843,
+      "lon": 2.4004170298849,
+      "popup": "<a href=\"https://www.chatons.org/chatons/animafac\" hreflang=\"fr\">Animafac</a>"
+    },
+    {
+      "lat": 48.844594856882,
+      "lon": 2.340087890625,
+      "popup": "<a href=\"https://www.chatons.org/chatons/lautre-net\" hreflang=\"fr\">Lautre Net</a>"
+    },
+    {
+      "lat": 43.61880517683,
+      "lon": 1.4206454157829,
+      "popup": "<a href=\"https://www.chatons.org/chatons/galilee\" hreflang=\"fr\">Galilée</a>"
+    },
+    {
+      "lat": 45.751684516066,
+      "lon": 4.8424400389194,
+      "popup": "<a href=\"https://www.chatons.org/chatons/framasoft\" hreflang=\"fr\">Framasoft</a>"
+    },
+    {
+      "lat": 48.574100982529,
+      "lon": 7.7639490365982,
+      "popup": "<a href=\"https://www.chatons.org/chatons/arn-sans-nuagefr\" hreflang=\"fr\">ARN - sans-nuage.fr</a>"
+    },
+    {
+      "lat": 49.467886077115,
+      "lon": 1.0809516906738,
+      "popup": "<a href=\"https://www.chatons.org/chatons/dedikam\" hreflang=\"fr\">DediKam</a>"
+    },
+    {
+      "lat": 45.776707,
+      "lon": 3.081987,
+      "popup": "<a href=\"https://www.chatons.org/chatons/chere-de-prince\" hreflang=\"fr\">Chère de Prince</a>"
+    },
+    {
+      "lat": 48.856225806902,
+      "lon": 2.3484992980957,
+      "popup": "<a href=\"https://www.chatons.org/chatons/jabberfr\" hreflang=\"fr\">JabberFR</a>"
+    },
+    {
+      "lat": 45.504117196236,
+      "lon": -73.600845336914,
+      "popup": "<a href=\"https://www.chatons.org/chatons/reseau-koumbit\" hreflang=\"fr\">Réseau Koumbit</a>"
+    },
+    {
+      "lat": 48.686604870084,
+      "lon": 6.1709710210562,
+      "popup": "<a href=\"https://www.chatons.org/chatons/ethibox\" hreflang=\"fr\">Ethibox</a>"
+    },
+    {
+      "lat": 49.179152,
+      "lon": -0.351917,
+      "popup": "<a href=\"https://www.chatons.org/chatons/artifaille\" hreflang=\"fr\">Artifaille</a>"
+    },
+    {
+      "lat": 47.71255677071,
+      "lon": -3.3463668823242,
+      "popup": "<a href=\"https://www.chatons.org/chatons/leprettefr\" hreflang=\"fr\">Leprette.fr</a>"
+    },
+    {
+      "lat": 44.919757066688,
+      "lon": 4.9008887261152,
+      "popup": "<a href=\"https://www.chatons.org/chatons/g3l\" hreflang=\"fr\">G3L</a>"
+    },
+    {
+      "lat": 49.417718680682,
+      "lon": 2.8211688995361,
+      "popup": "<a href=\"https://www.chatons.org/chatons/picasoft\" hreflang=\"fr\">Picasoft</a>"
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/indiehosters\" hreflang=\"fr\">IndieHosters</a>",
+      "lat": 43.608041,
+      "lon": 1.438522
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/indiehosters\" hreflang=\"fr\">IndieHosters</a>",
+      "lat": 45.619657,
+      "lon": 4.671164
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/indiehosters\" hreflang=\"fr\">IndieHosters</a>",
+      "lat": 49.1235,
+      "lon": 6.160583
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/indiehosters\" hreflang=\"fr\">IndieHosters</a>",
+      "lat": 44.353118,
+      "lon": 5.134048
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/indiehosters\" hreflang=\"fr\">IndieHosters</a>",
+      "lat": 44.15211,
+      "lon": 2.305241
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/indiehosters\" hreflang=\"fr\">IndieHosters</a>",
+      "lat": 48.382159,
+      "lon": -4.42511
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/indiehosters\" hreflang=\"fr\">IndieHosters</a>",
+      "lat": 48.829289,
+      "lon": 2.421753
+    },
+    {
+      "lat": 48.310115,
+      "lon": -1.731575,
+      "popup": "<a href=\"https://www.chatons.org/chatons/farmservorg\" hreflang=\"fr\">Farmserv.org</a>"
+    },
+    {
+      "lat": 48.38327,
+      "lon": -4.517108,
+      "popup": "<a href=\"https://www.chatons.org/chatons/infini\" hreflang=\"fr\">Infini</a>"
+    },
+    {
+      "lat": 43.288866149004,
+      "lon": 5.3834766894647,
+      "popup": "<a href=\"https://www.chatons.org/chatons/assodev-marsnet\" hreflang=\"fr\">Assodev-Marsnet</a>"
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/sud-ouestorg\" hreflang=\"fr\">Sud-Ouest.org</a>",
+      "lat": 44.804725,
+      "lon": -0.6314
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/sud-ouestorg\" hreflang=\"fr\">Sud-Ouest.org</a>",
+      "lat": 44.813122,
+      "lon": -0.554026
+    },
+    {
+      "lat": 48.89724086888,
+      "lon": 2.2524118423462,
+      "popup": "<a href=\"https://www.chatons.org/chatons/tedomum\" hreflang=\"fr\">TeDomum</a>"
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/immaeeu\" hreflang=\"fr\">ImmaeEu</a>",
+      "lat": 43.642033,
+      "lon": 6.941189
+    },
+    {
+      "popup": "<a href=\"https://www.chatons.org/chatons/immaeeu\" hreflang=\"fr\">ImmaeEu</a>",
+      "lat": 43.696822,
+      "lon": 6.986461
+    },
+    {
+      "lat": 45.523348009554,
+      "lon": -73.605673313141,
+      "popup": "<a href=\"https://www.chatons.org/chatons/facil\" hreflang=\"fr\">FACiL</a>"
+    },
+    {
+      "lat": 45.773090314759,
+      "lon": 4.8374471068382,
+      "popup": "<a href=\"https://www.chatons.org/chatons/hadoly\" hreflang=\"fr\">Hadoly</a>"
+    },
+    {
+      "lat": 47.10618498558,
+      "lon": -1.8607234954834,
+      "popup": "<a href=\"https://www.chatons.org/chatons/le-retzien-libre\" hreflang=\"fr\">Le Retzien Libre</a>"
+    },
+    {
+      "lat": 47.476283,
+      "lon": -0.551376,
+      "popup": "<a href=\"https://www.chatons.org/chatons/roflcopterfr\" hreflang=\"fr\">roflcopter.fr</a>"
+    },
+    {
+      "lat": 43.551925981078,
+      "lon": 1.4726078510284,
+      "popup": "<a href=\"https://www.chatons.org/chatons/projet-internet-et-citoyennete\" hreflang=\"fr\">Projet Internet et Citoyenneté</a>"
+    },
+    {
+      "lat": 43.215357221441,
+      "lon": 1.1072896420956,
+      "popup": "<a href=\"https://www.chatons.org/chatons/tilaim\" hreflang=\"fr\">Tila.im</a>"
+    },
+    {
+      "lat": 48.400822658878,
+      "lon": -4.46044921875,
+      "popup": "<a href=\"https://www.chatons.org/chatons/vulpecula-constellation\" hreflang=\"fr\">Vulpecula Constellation</a>"
+    },
+    {
+      "lat": 47.247860700862,
+      "lon": 6.0284820199013,
+      "popup": "<a href=\"https://www.chatons.org/chatons/simon-vieilledeblan\" hreflang=\"fr\">Simon Vieille/Deblan</a>"
+    },
+    {
+      "lat": 45.184696684379,
+      "lon": 5.7352495193481,
+      "popup": "<a href=\"https://www.chatons.org/chatons/nomagic\" hreflang=\"fr\">Nomagic</a>"
+    },
+    {
+      "lat": 43.797619395281,
+      "lon": 1.6069221496582,
+      "popup": "<a href=\"https://www.chatons.org/chatons/devloprog\" hreflang=\"fr\">DEVLOPROG</a>"
+    },
+    {
+      "lat": 48.689122731907,
+      "lon": 2.4196529388428,
+      "popup": "<a href=\"https://www.chatons.org/chatons/paquerette\" hreflang=\"fr\">Pâquerette</a>"
+    },
+    {
+      "lat": 48.852958,
+      "lon": 2.395437,
+      "popup": "<a href=\"https://www.chatons.org/chatons/colibris-outils-libres\" hreflang=\"fr\">Colibris Outils libres</a>"
+    }
+  ]
+}
