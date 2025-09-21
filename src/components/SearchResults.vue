@@ -9,8 +9,10 @@ defineEmits(['selected'])
 </script>
 
 <style scoped lang="scss">
-.search-results:hover {
+.search-results:hover,
+.search-results:focus {
   background-color: $light !important;
+  outline: none;
 }
 </style>
 
